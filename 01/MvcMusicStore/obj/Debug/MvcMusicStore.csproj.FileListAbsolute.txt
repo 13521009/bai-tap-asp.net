@@ -1,0 +1,4 @@
+C:\Users\TRINHTUNG\Desktop\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\TRINHTUNG\Desktop\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
