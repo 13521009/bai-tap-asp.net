@@ -1,0 +1,5 @@
+C:\Users\TRINHTUNG\Desktop\02.Bai Thuc Hanh ASPNET-MVC3 Helpers Forms Va Validation\Begin\C#\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\02.Bai Thuc Hanh ASPNET-MVC3 Helpers Forms Va Validation\Begin\C#\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\TRINHTUNG\Desktop\02.Bai Thuc Hanh ASPNET-MVC3 Helpers Forms Va Validation\Begin\C#\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\TRINHTUNG\Desktop\02.Bai Thuc Hanh ASPNET-MVC3 Helpers Forms Va Validation\Begin\C#\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\02.Bai Thuc Hanh ASPNET-MVC3 Helpers Forms Va Validation\Begin\C#\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
